@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
