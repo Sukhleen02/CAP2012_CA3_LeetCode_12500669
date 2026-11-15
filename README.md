@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0237-delete-node-in-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sukhleen02/CAP2012_CA3_LeetCode_12500669/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
